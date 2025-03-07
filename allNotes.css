@@ -1,0 +1,65 @@
+.cardcource{
+    width: 100%;
+    display: inline-block;
+    display: inline-flex;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    /* margin-top: 80px; */
+}
+.itemscourceincard{
+    width: 25%;
+    margin: 10px;
+    background-color: slategray;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.itemscourceincard:hover{
+    opacity: 0.5;
+
+}
+.courceimg:hover{
+    opacity: 0.5;
+    
+}
+.centered {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    font-weight: 300;
+  }
+.headings{
+    margin-top: 80px;
+    font-size: 30px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: slategray;
+}
+
+.allnotesheading{
+    margin-top: 80px;
+    font-size: 30px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: slategray;
+    text-align: center;
+    
+}
+
+.footer {
+    position:fixed;
+    left: 0;
+    bottom: 0px;
+    width: 100%;
+    background-color: rgb(58, 59, 59);
+    color: white;
+    text-align: center;
+  }
+  .courcebottomtext{
+      font-size: 20px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-weight: 800;
+  }
